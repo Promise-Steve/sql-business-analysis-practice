@@ -2,7 +2,8 @@
 Practical SQL business analysis project using retail business data.
 
 SQL Business Analysis Practice Project
-📌 Project Overview
+
+Project Overview
 
 This project contains practical SQL business analysis tasks designed to solve real-world retail business problems using SQL.
 
@@ -30,59 +31,62 @@ Business Logic Calculations
 SQL Reporting
 
 📂 Business Questions Solved
-1️⃣ Customer Diversity Analysis
+
+1️. Customer Diversity Analysis
 
 Retrieved unique countries where customers are located.
 
-2️⃣ Missing Data Audit
+2️. Missing Data Audit
 
 Identified customers without assigned regions.
 
-3️⃣ Order Volume Overview
+3️. Order Volume Overview
 
 Calculated the total number of orders placed.
 
-4️⃣ Revenue Calculation
+4️. Revenue Calculation
 
 Estimated total business revenue using:
 
 UnitPrice * Quantity * (1 - Discount)
-5️⃣ Product Performance by Category
+5️. Product Performance by Category
 
 Counted products in each category.
 
-6️⃣ High-Value Customers
+6️. High-Value Customers
 
 Identified customers with more than 10 orders.
 
-7️⃣ Average Freight Analysis
+7️. Average Freight Analysis
 
 Calculated the average freight cost per customer.
 
-8️⃣ Suppliers with Multiple Products
+8️. Suppliers with Multiple Products
 
 Found suppliers supplying more than 5 products.
 
-9️⃣ Countries with High Customer Base
+9️. Countries with High Customer Base
 
 Identified countries with more than 5 customers.
 
-🔟 Orders Without Shipment
+10. Orders Without Shipment
 
 Tracked pending shipments using NULL shipment dates.
 
-📁 Repository Structure
+Repository Structure
 sql-business-analysis-practice/
 │
 ├── README.md
 ├── queries.sql
 └── results/
-💻 Tools Used
+
+Tools Used
 SQL
 MySQL
 Microsoft Excel
 GitHub
-🚀 Project Goals
+
+Project Goals
 
 This project was created to:
 
@@ -90,10 +94,11 @@ Strengthen SQL analytical skills
 Practice business-focused SQL querying
 Build a professional data analytics portfolio
 Simulate real-world reporting tasks
-👤 Author
+
+Author
 Chukwuemeka Somtochukwu Promise
 
 
-⭐ If You Found This Helpful
+If You Found This Helpful
 
 Feel free to star the repository.
