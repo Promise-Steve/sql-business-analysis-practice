@@ -18,7 +18,9 @@ Order Details
 
 This project demonstrates practical SQL analytical skills commonly used in data analysis and business intelligence.
 
-🛠 SQL Concepts Applied
+
+SQL Concepts Applied
+
 DISTINCT
 NULL Handling
 Aggregate Functions
@@ -30,7 +32,8 @@ AVG()
 Business Logic Calculations
 SQL Reporting
 
-📂 Business Questions Solved
+
+Business Questions Solved
 
 1️. Customer Diversity Analysis
 
