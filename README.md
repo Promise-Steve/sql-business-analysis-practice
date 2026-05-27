@@ -76,7 +76,9 @@ Identified countries with more than 5 customers.
 
 Tracked pending shipments using NULL shipment dates.
 
+
 Repository Structure
+
 sql-business-analysis-practice/
 │
 ├── README.md
@@ -88,6 +90,7 @@ SQL
 MySQL
 Microsoft Excel
 GitHub
+
 
 Project Goals
 
