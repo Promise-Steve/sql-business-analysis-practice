@@ -1,110 +1,115 @@
-# sql-business-analysis-practice
-Practical SQL business analysis project using retail business data.
+# 📊 SQL Business Analysis Practice Project
 
-SQL Business Analysis Practice Project
-
-Project Overview
+## 📌 Project Overview
 
 This project contains practical SQL business analysis tasks designed to solve real-world retail business problems using SQL.
 
 The analysis was performed on a retail database containing tables such as:
 
-Customers
-Orders
-Products
-Suppliers
-Categories
-Order Details
+- Customers
+- Orders
+- Products
+- Suppliers
+- Categories
+- Order Details
 
 This project demonstrates practical SQL analytical skills commonly used in data analysis and business intelligence.
 
+---
 
-SQL Concepts Applied
+# 🛠 SQL Concepts Applied
 
-DISTINCT
-NULL Handling
-Aggregate Functions
-GROUP BY
-HAVING
-COUNT()
-SUM()
-AVG()
-Business Logic Calculations
-SQL Reporting
+- DISTINCT
+- NULL Handling
+- Aggregate Functions
+- GROUP BY
+- HAVING
+- COUNT()
+- SUM()
+- AVG()
+- Business Logic Calculations
+- SQL Reporting
 
+---
 
-Business Questions Solved
+# 📂 Business Questions Solved
 
-1️. Customer Diversity Analysis
-
+## 1️⃣ Customer Diversity Analysis
 Retrieved unique countries where customers are located.
 
-2️. Missing Data Audit
-
+## 2️⃣ Missing Data Audit
 Identified customers without assigned regions.
 
-3️. Order Volume Overview
-
+## 3️⃣ Order Volume Overview
 Calculated the total number of orders placed.
 
-4️. Revenue Calculation
-
+## 4️⃣ Revenue Calculation
 Estimated total business revenue using:
 
+```sql
 UnitPrice * Quantity * (1 - Discount)
-5️. Product Performance by Category
+```
 
+## 5️⃣ Product Performance by Category
 Counted products in each category.
 
-6️. High-Value Customers
-
+## 6️⃣ High-Value Customers
 Identified customers with more than 10 orders.
 
-7️. Average Freight Analysis
+## 7️⃣ Average Freight Analysis
+Calculated average freight cost per customer.
 
-Calculated the average freight cost per customer.
-
-8️. Suppliers with Multiple Products
-
+## 8️⃣ Suppliers with Multiple Products
 Found suppliers supplying more than 5 products.
 
-9️. Countries with High Customer Base
-
+## 9️⃣ Countries with High Customer Base
 Identified countries with more than 5 customers.
 
-10. Orders Without Shipment
-
+## 🔟 Orders Without Shipment
 Tracked pending shipments using NULL shipment dates.
 
+---
 
-Repository Structure
+# 📁 Repository Structure
 
+```bash
 sql-business-analysis-practice/
 │
 ├── README.md
 ├── queries.sql
 └── results/
+```
 
-Tools Used
-SQL
-MySQL
-Microsoft Excel
-GitHub
+---
 
+# 💻 Tools Used
 
-Project Goals
+- SQL
+- MySQL
+- Microsoft Excel
+- GitHub
+
+---
+
+# 🚀 Project Goals
 
 This project was created to:
 
-Strengthen SQL analytical skills
-Practice business-focused SQL querying
-Build a professional data analytics portfolio
-Simulate real-world reporting tasks
+- Strengthen SQL analytical skills
+- Practice business-focused SQL querying
+- Build a professional data analytics portfolio
+- Simulate real-world reporting tasks
 
-Author
-Chukwuemeka Somtochukwu Promise
+---
 
+# 👤 Author
 
-If You Found This Helpful
+## Chukwuemeka Somtochukwu Promise
+
+Aspiring Data Analyst passionate about SQL, business intelligence, and solving real-world business problems using data.
+
+---
+
+# ⭐ If You Found This Helpful
 
 Feel free to star the repository.
