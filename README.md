@@ -1,6 +1,6 @@
-# 📊 SQL Business Analysis Practice Project
+# SQL Business Analysis Practice Project
 
-## 📌 Project Overview
+## Overview
 
 This project contains practical SQL business analysis tasks designed to solve real-world retail business problems using SQL.
 
@@ -17,7 +17,7 @@ This project demonstrates practical SQL analytical skills commonly used in data 
 
 ---
 
-# 🛠 SQL Concepts Applied
+# SQL Concepts Applied
 
 - DISTINCT
 - NULL Handling
@@ -32,7 +32,7 @@ This project demonstrates practical SQL analytical skills commonly used in data 
 
 ---
 
-# 📂 Business Questions Solved
+# Business Questions Solved
 
 ## 1️⃣ Customer Diversity Analysis
 Retrieved unique countries where customers are located.
@@ -70,7 +70,7 @@ Tracked pending shipments using NULL shipment dates.
 
 ---
 
-# 📁 Repository Structure
+# Repository Structure
 
 ```bash
 sql-business-analysis-practice/
@@ -82,7 +82,7 @@ sql-business-analysis-practice/
 
 ---
 
-# 💻 Tools Used
+# Tools Used
 
 - SQL
 - MySQL
@@ -91,7 +91,7 @@ sql-business-analysis-practice/
 
 ---
 
-# 🚀 Project Goals
+# Project Goals
 
 This project was created to:
 
@@ -102,7 +102,7 @@ This project was created to:
 
 ---
 
-# 👤 Author
+# Author
 
 ## Chukwuemeka Somtochukwu Promise
 
@@ -110,6 +110,6 @@ Aspiring Data Analyst passionate about SQL, business intelligence, and solving r
 
 ---
 
-# ⭐ If You Found This Helpful
+# If You Found This Helpful
 
 Feel free to star the repository.
